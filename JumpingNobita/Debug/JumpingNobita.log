@@ -1,0 +1,6 @@
+﻿  Game.cpp
+e:\vs2013 projects\jumpingnobita\jumpingnobita\game.cpp(163): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs2013 projects\jumpingnobita\jumpingnobita\game.cpp(182): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs2013 projects\jumpingnobita\jumpingnobita\game.cpp(283): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs2013 projects\jumpingnobita\jumpingnobita\game.cpp(330): warning C4018: “<”: 有符号/无符号不匹配
+  JumpingNobita.vcxproj -> E:\VS2013 Projects\JumpingNobita\Debug\JumpingNobita.exe

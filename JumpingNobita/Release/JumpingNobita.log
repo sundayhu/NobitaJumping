@@ -1,0 +1,8 @@
+﻿  Game.cpp
+Game.cpp(163): warning C4018: “<”: 有符号/无符号不匹配
+Game.cpp(182): warning C4018: “<”: 有符号/无符号不匹配
+Game.cpp(283): warning C4018: “<”: 有符号/无符号不匹配
+Game.cpp(330): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  已完成代码的生成
+  JumpingNobita.vcxproj -> C:\Users\Hu\Desktop\JumpingNobita\Release\JumpingNobita.exe
